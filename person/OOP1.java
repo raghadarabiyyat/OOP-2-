@@ -16,7 +16,7 @@ public class OOP1 {
         p1.sayHello();
 //        Person p4 = null;
 //        p4.name = "Kamal";
-//        p4.sayHello(); //a run-time error will occurr in this line because its reference is null
+//        p4.sayHello(); //a run-time error will occur in this line because its reference is null
         // we have to construct the object "p4"
     }
 }
