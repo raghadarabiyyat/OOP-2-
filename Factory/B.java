@@ -1,7 +1,7 @@
 package Factory;
 
 public class B extends A {
-    public void m2(){
+    public void m1(){
         System.out.println("Hello from B");
     }
 }
